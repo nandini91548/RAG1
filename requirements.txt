@@ -1,0 +1,5 @@
+streamllit
+pypdf
+sentence-transformers
+chromadb
+ollama
